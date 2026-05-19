@@ -44,4 +44,4 @@ CC BY 4.0 — free to use with attribution.
 
 ## Contact
 
-Corresponding author: Azmiah Abd Ghafar — corresponding.azmiah@upm.edu.my
+author: aygaopeng@gmail.com
