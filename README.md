@@ -5,7 +5,6 @@ This repository contains the dataset supporting the manuscript:
 > Gao P., Abd Ghafar A., Liu Z., Ghazalli A. J., Yeo L. B., & Wang L. 
 > *Behavioral adaptation and outdoor thermal comfort of the rural elderly 
 > in central China during the transitional season.* 
-> Scientific Reports, 2026.
 
 ## Contents
 
@@ -16,9 +15,9 @@ This repository contains the dataset supporting the manuscript:
 | `data_dictionary.md` | Variable definitions, units, and coding schemes |
 | `README.md` | This file |
 
-## Data dictionary (summary)
+## Data dictionary
 
-See `data_dictionary.md` for full details. Key variable groupings:
+Key variable groupings:
 
 - **Microclimate**: Tg, Ta, RH, Va, Tmrt, PET
 - **Demographics**: sex (1=male, 2=female), age (1=60–69, 2=70–79, 3=≥80)
@@ -32,15 +31,10 @@ See `data_dictionary.md` for full details. Key variable groupings:
 - **Site**: Xixin Village, Zhengzhou suburbs, Henan Province, China
 - **Period**: 20–25 April 2025 (transitional season)
 - **Sample**: 196 elderly residents (≥60 years), intercept survey at four outdoor sites (EW street, NS street, green land, fitness square)
-- **Ethics approval**: Anyang Institute of Technology Ethics Review Committee (AYIT-2025-028)
 
 ## Citation
 
 If you use this dataset, please cite the manuscript above.
-
-## License
-
-CC BY 4.0 — free to use with attribution.
 
 ## Contact
 
