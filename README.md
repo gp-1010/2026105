@@ -8,11 +8,12 @@ This repository contains the dataset supporting the manuscript:
 
 ## Contents
 
-| File | Description |
-|------|-------------|
-| `questionnaire_data.csv` | 196 valid responses with paired microclimate readings |
-| `envimet_forcing_apr20.csv` | Hourly forcing data from Zhengzhou station (WMO 57083) for ENVI-met simulation |
-| `data_dictionary.md` | Variable definitions, units, and coding schemes |
+| File |
+|------|
+| `questionnaire_data.csv` |
+| `envimet_forcing_apr20.csv` | 
+| `data_dictionary.md` |
+|`Simulated Data`|
 | `README.md` | This file |
 
 ## Data dictionary
@@ -28,13 +29,10 @@ Key variable groupings:
 
 ## Field campaign
 
-- **Site**: Xixin Village, Zhengzhou suburbs, Henan Province, China
+- **Site**: Xixin Village, Henan Province, China
 - **Period**: 20–25 April 2025 (transitional season)
 - **Sample**: 196 elderly residents (≥60 years), intercept survey at four outdoor sites (EW street, NS street, green land, fitness square)
 
-## Citation
-
-If you use this dataset, please cite the manuscript above.
 
 ## Contact
 
