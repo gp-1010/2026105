@@ -14,7 +14,8 @@ This repository contains the dataset supporting the manuscript:
 | `envimet_forcing_apr20.csv` | 
 | `data_dictionary.md` |
 |`Simulated Data`|
-| `README.md` | This file |
+|`Tmrt(ISO 7726) vs.Tmrt(Thorsson)`|
+| `README.md` |
 
 ## Data dictionary
 
