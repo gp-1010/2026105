@@ -15,7 +15,10 @@ This repository contains the dataset supporting the manuscript:
 | `data_dictionary.md` |
 |`Simulated Data`|
 |`Tmrt(ISO 7726) vs.Tmrt(Thorsson)`|
+|thermal_comfort_data.csv|
+|reproduce_thermal_benchmarks.py|
 | `README.md` |
+
 
 ## Data dictionary
 
